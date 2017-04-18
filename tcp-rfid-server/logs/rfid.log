@@ -1,0 +1,6 @@
+[INFO ][20170417 09:48:56,935][Main:13] main start.....
+[INFO ][20170417 09:48:57,803][Main:16] main start  ok.....
+[INFO ][20170417 09:49:24,178][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:49:25,334][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:49:25,335][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:49:26,355][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool

@@ -1,0 +1,44 @@
+[INFO ][20170417 09:50:37,280][Main:13] main start.....
+[INFO ][20170417 09:50:37,992][Main:16] main start  ok.....
+[INFO ][20170417 09:50:44,490][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:50:45,567][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:53:31,294][Main:13] main start.....
+[INFO ][20170417 09:53:32,013][Main:16] main start  ok.....
+[INFO ][20170417 09:53:36,541][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:53:37,616][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:53:37,641][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:53:38,659][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:53:38,660][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:53:39,677][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:55:16,265][Main:13] main start.....
+[INFO ][20170417 09:55:16,969][Main:16] main start  ok.....
+[INFO ][20170417 09:55:19,778][AbstractInternalLogger:100] [id: 0x8e6878c3, L:/127.0.0.1:10012 - R:/127.0.0.1:58660] REGISTERED
+[INFO ][20170417 09:55:19,778][AbstractInternalLogger:100] [id: 0x8e6878c3, L:/127.0.0.1:10012 - R:/127.0.0.1:58660] ACTIVE
+[INFO ][20170417 09:55:22,312][AbstractInternalLogger:100] [id: 0x8e6878c3, L:/127.0.0.1:10012 - R:/127.0.0.1:58660] RECEIVED: 20B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 02 03 04 05 00 14 00 58 41 1c 01 04 b4 36 00 07 |.......XA....6..|
+|00000010| f8 09 37 05                                     |..7.            |
++--------+-------------------------------------------------+----------------+
+[INFO ][20170417 09:55:22,316][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:55:23,378][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:55:44,989][Main:13] main start.....
+[INFO ][20170417 09:55:45,707][Main:16] main start  ok.....
+[INFO ][20170417 09:55:48,218][AbstractInternalLogger:100] [id: 0x7bdd9d45, L:/127.0.0.1:10012 - R:/127.0.0.1:58790] REGISTERED
+[INFO ][20170417 09:55:48,218][AbstractInternalLogger:100] [id: 0x7bdd9d45, L:/127.0.0.1:10012 - R:/127.0.0.1:58790] ACTIVE
+[INFO ][20170417 09:55:49,967][AbstractInternalLogger:100] [id: 0x7bdd9d45, L:/127.0.0.1:10012 - R:/127.0.0.1:58790] RECEIVED: 20B
+         +-------------------------------------------------+
+         |  0  1  2  3  4  5  6  7  8  9  a  b  c  d  e  f |
++--------+-------------------------------------------------+----------------+
+|00000000| 02 03 04 05 00 14 00 58 41 1c 01 04 b4 36 00 07 |.......XA....6..|
+|00000010| f8 09 37 05                                     |..7.            |
++--------+-------------------------------------------------+----------------+
+[INFO ][20170417 09:55:49,971][FnTcpServerHandler:33] 308278  
+[ERROR][20170417 09:55:51,033][RfidRedisDao:36] Cannot get Jedis connection; nested exception is redis.clients.jedis.exceptions.JedisConnectionException: Could not get a resource from the pool
+[INFO ][20170417 09:55:53,454][AbstractInternalLogger:100] [id: 0x7bdd9d45, L:/127.0.0.1:10012 ! R:/127.0.0.1:58790] INACTIVE
+[INFO ][20170417 09:55:53,454][AbstractInternalLogger:100] [id: 0x7bdd9d45, L:/127.0.0.1:10012 ! R:/127.0.0.1:58790] UNREGISTERED
+[INFO ][20170417 09:57:03,584][AbstractInternalLogger:100] [id: 0xe00de282, L:/127.0.0.1:10012 - R:/127.0.0.1:58793] REGISTERED
+[INFO ][20170417 09:57:03,584][AbstractInternalLogger:100] [id: 0xe00de282, L:/127.0.0.1:10012 - R:/127.0.0.1:58793] ACTIVE
+[INFO ][20170417 09:57:05,061][AbstractInternalLogger:100] [id: 0xe00de282, L:/127.0.0.1:10012 ! R:/127.0.0.1:58793] INACTIVE
+[INFO ][20170417 09:57:05,061][AbstractInternalLogger:100] [id: 0xe00de282, L:/127.0.0.1:10012 ! R:/127.0.0.1:58793] UNREGISTERED
